@@ -45,16 +45,18 @@ Libraries: pandas, seaborn, matplotlib
 
 ### 📈 Visualizations: 
 ![orders_by_date](images/orders_by_date.png)  
+
 ![confirmed_vs_canceled](images/confirmed_vs_canceled.png)  
+
 ![revenue_metrics](images/revenue_metrics.png)  
+
 ![category](images/category.png)  
+
 ![histplot](images/histplot.png)  
+
 ![scatter_brands](images/scatter_brands.png)  
+
 ![scatter_clients](images/scatter_clients.png)  
-
-
-
-  
 
 ### 📌 Project Notes:
 ***This is an educational project for learning data analysis and visualization techniques.***
